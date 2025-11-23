@@ -26,8 +26,13 @@ Indoor robot pathfinding
 Drone landing zone detection
 
 Warehouse robot obstacle avoidance
+
+
 ---
 🧠 Architecture
+
+
+
                           ┌────────────────────────────────────────┐
                           │         Perception Dashboard            │
                           └────────────────────────────────────────┘
