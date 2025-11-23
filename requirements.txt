@@ -1,0 +1,15 @@
+# streamlit
+# opencv-python
+# numpy
+# open3d
+# matplotlib
+# pillow
+# venv312\Scripts\activate
+streamlit
+opencv-python
+numpy
+open3d
+matplotlib
+pillow
+plotly
+
